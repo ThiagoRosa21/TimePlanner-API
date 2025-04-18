@@ -1,4 +1,4 @@
-from app.schemas.task_schema import EntradaOrganizacao, RespostaOrganizacao
+from App.schemas.task_schemas import EntradaOrganizacao, RespostaOrganizacao
 
 def organizar_tarefas(entrada: EntradaOrganizacao) -> RespostaOrganizacao:
     tarefas_ordenadas = sorted(
