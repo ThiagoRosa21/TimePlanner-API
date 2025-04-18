@@ -13,8 +13,8 @@ TimePlanner API is a **FastAPI**-based application designed to help users organi
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/yourusername/timeplanner-api.git
-cd timeplanner-api
+git clone https://github.com/ThiagoRosa21/TimePlanner-API.git
+cd TimePlanner-API
 ```
 
 ### 2. Install dependencies
